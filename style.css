@@ -1,14 +1,18 @@
 /* style.css */
+header {
+  background-color: #ffdb78;
+}
+
 body {
   font-family: sans-serif;
   max-width: 800px;
   margin: 0 auto;
   padding: 20px;
   line-height: 1.6;
-  background-color: #3e5aa7;
+  background-color: #a2bafc;
 }
 
-header, section, footer {
+section, footer {
   margin-bottom: 2em;
 }
 
