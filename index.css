@@ -1,0 +1,16 @@
+/* style.css */
+body {
+  font-family: sans-serif;
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+  line-height: 1.6;
+}
+
+header, section, footer {
+  margin-bottom: 2em;
+}
+
+h1, h2 {
+  color: #333;
+}
