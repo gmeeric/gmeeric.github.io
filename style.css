@@ -5,6 +5,7 @@ body {
   margin: 0 auto;
   padding: 20px;
   line-height: 1.6;
+  background-color: #3e5aa7;
 }
 
 header, section, footer {
@@ -12,5 +13,5 @@ header, section, footer {
 }
 
 h1, h2 {
-  color: #333;
+  color: #a14d4d;
 }
